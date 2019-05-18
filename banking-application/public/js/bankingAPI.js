@@ -15,7 +15,7 @@ var IBM_CLIENT_ID = "8ac9e63e-5f88-4fef-9833-b4b5d9ce8cce";
 
 
 // Your API ClientSecret
-var IBM_CLIENT_SECRET = "vA7cA4sX7rX5nL8vM5pG2pD3hF7bL4iD7mG5aG3cU8hM1pP";
+var IBM_CLIENT_SECRET = "vA7cA4sX0rX7rX5nL8vM5pG2pD3hF7bL4iD7mG5aG3cU8hM1pP";
 
 
 /*
